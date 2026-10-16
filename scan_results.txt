@@ -1,0 +1,8 @@
+Syntecxhub Port Scanner Results
+Scan date: 2026-10-16 15:57:06.027835
+Target: 127.0.0.1
+Port range: 20-100
+
+Port 53: OPEN - domain
+
+Total open ports: 1
